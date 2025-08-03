@@ -1,6 +1,8 @@
 import {Playground} from './Playground';
 import {KitchenSink} from './KitchenSink';
 import {DetailsPage} from './DetailsPage';
+import {ReactHookFormExample} from './ReactHookFormExample';
+import {ReactHookFormAdvanced} from './ReactHookFormAdvanced';
 
 export default {
   // eslint-disable-next-line storybook/no-title-property-in-meta
@@ -11,4 +13,10 @@ export default {
   },
 };
 
-export {DetailsPage, KitchenSink, Playground};
+export {
+  DetailsPage,
+  KitchenSink,
+  Playground,
+  ReactHookFormExample,
+  ReactHookFormAdvanced,
+};
