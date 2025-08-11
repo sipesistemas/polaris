@@ -9,7 +9,7 @@
   "scripts": {
     "build": "turbo run build",
     "build:release": "turbo run build --filter='!polaris.shopify.com'",
-    "dev": "turbo run dev --filter=@shopify/polaris --parallel",
+    "dev": "turbo run dev --filter=@pethis/polaris --parallel",
     "lint": "turbo run lint",
     "test": "turbo run test",
     "test:watch": "jest --watch",

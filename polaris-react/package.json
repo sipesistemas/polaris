@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/polaris",
+  "name": "@pethis/polaris",
   "description": "Shopify’s admin product component library",
   "version": "13.9.5",
   "private": false,
@@ -58,6 +58,7 @@
   "dependencies": {
     "@shopify/polaris-icons": "^9.3.1",
     "@shopify/polaris-tokens": "^9.4.2",
+    "@tanstack/react-router": "^1.131.3",
     "@types/react": "*",
     "@types/react-dom": "*",
     "@types/react-transition-group": "^4.4.2",

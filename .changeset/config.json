@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@2.0.0/schema.json",
-  "changelog": ["@changesets/changelog-github", {"repo": "Shopify/polaris"}],
+  "changelog": ["@changesets/changelog-github", {"repo": "sipesistemas/polaris"}],
   "commit": false,
   "fixed": [],
   "linked": [],
