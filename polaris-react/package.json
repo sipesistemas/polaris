@@ -6,9 +6,9 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "author": "Shopify <dev@shopify.com>",
   "homepage": "https://polaris.shopify.com/components",
-  "repository": "https://github.com/Shopify/polaris",
+  "repository": "https://github.com/sipesistemas/polaris",
   "bugs": {
-    "url": "https://github.com/Shopify/polaris/issues"
+    "url": "https://github.com/sipesistemas/polaris/issues"
   },
   "engines": {
     "node": ">=20.10.0"
